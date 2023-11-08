@@ -1,0 +1,24 @@
+p {
+    background-color: rgb(16, 119, 160);
+}
+.titulo {
+    font-size: 24px;
+}
+h1 {
+    font-size: 76px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+#primeira_div {
+    min-height: 2em;
+    background-color: deeppink;
+}
+html{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#coloridinho {
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    background-color: #00ffff;
+
+}
